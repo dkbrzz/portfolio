@@ -69,3 +69,32 @@ p {
     padding-left: 0 px;
     padding-top: 45px;
 }
+
+.AboutMe {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 375px;
+    background-color: white;
+}
+.AboutMe > div > img {
+    width: 200px;
+    margin-top: -200px;
+}
+.AboutMe > div > p {
+    color: black;
+    font-size: 25px;
+    padding-top: 5px;
+}
+
+.bg-clr {
+    background-color: rgb(10,10,10);
+    width: auto;
+    height: 600px;
+}
+.bg-clr > p {
+    font-size: 10px;
+}
+.AboutMe-Info > div> p {
+    font-size: 25px;
+    color: white;
+}
