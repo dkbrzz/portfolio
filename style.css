@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(Photos/background.png);
+    background-size: inherit
+}
+
+.start{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    color: gainsboro;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 100px;
+}
+div > img {
+    border-radius: 50%;
+    width: 300px;
+    padding-top: 200px;
+}
+div > p {  
+    color: gainsboro;
+    font-size: 40px;
+    text-align: center;
+}
+p {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: gainsboro;
+
+}
