@@ -53,18 +53,12 @@ div > img {
     width: 450px;
     padding-top: 0px;
 }
-div > p {  
+.ks {  
     color: gainsboro;
     font-size: 40px;
     text-align: center;
 }
-p {
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    color: gainsboro;
 
-}
 .foto {
     padding-left: 0 px;
     padding-top: 45px;
@@ -73,8 +67,8 @@ p {
 .AboutMe {
     display: flex;
     justify-content: space-between;
-    margin-top: 375px;
-    background-color: white;
+    margin-top: 750px;
+    background-color: rgb(0, 0, 0);
 }
 .AboutMe > div > img {
     width: 200px;
@@ -97,4 +91,10 @@ p {
 .AboutMe-Info > div> p {
     font-size: 25px;
     color: white;
+}
+
+.ks2 {  
+    color: gainsboro;
+    font-size: 40px;
+    text-align: center;
 }
